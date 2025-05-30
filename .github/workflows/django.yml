@@ -29,3 +29,8 @@ jobs:
 
     - name: Apply Migrations
       run: python3 manage.py migrate
+
+
+  # iformation:
+    # Ramesh.D      username
+    # 1234@1234      password
